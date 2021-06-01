@@ -2,7 +2,7 @@
 """
 Created on Tue Jun  1 14:04:29 2021
 
-@author: Say My Name
+@author: Wasif Alam
 """
 import numpy as np
 import json
